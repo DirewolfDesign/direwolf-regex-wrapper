@@ -6,12 +6,12 @@
 
 ---
 
-Contributors: [Direwolf Design](https://github.com/DirewolfDesign)
-Tags: php, regex
-Requires PHP: 7.2
-Stable Tag: n/a
-License: GNU GPLv3.0 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+* Contributors: [Direwolf Design](https://github.com/DirewolfDesign)
+* Tags: php, regex
+* Requires PHP: 7.2
+* Stable Tag: n/a
+* License: GNU GPLv3.0 or later
+* License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 ---
 
